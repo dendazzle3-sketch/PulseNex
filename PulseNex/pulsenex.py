@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 PulseNex - Website Availability Monitor for Linux
-Author: Nexus Web Security (Tanvir Ahmed)
+Author: Afsa Taj
 
 A lightweight, real-time website/uptime monitor for Linux. Periodically
 checks a list of URLs over HTTP(S), measures response time, verifies
